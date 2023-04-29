@@ -1,0 +1,27 @@
+Позиция;#;Гонщик;None;Машина;Круги;Время;Отрыв;Отставание;км/ч
+1;9;Дэвид Рейнольдс;None;Holden Commodore ZB;11;25'58.6766;None;None;None
+2;8;Ник Перкат;None;Holden Commodore ZB;11;25'59.6846;1.0080;1.0080;None
+3;1;Джейми Уинкап;None;Holden Commodore ZB;11;26'00.5871;1.9105;0.9025;None
+4;55;Час Мостер;None;Ford Falcon FG X;11;26'01.5990;2.9224;1.0119;None
+5;2;Скотт Пай;None;Holden Commodore ZB;11;26'02.2166;3.5400;0.6176;None
+6;12;Фабиан Култхард;None;Ford Falcon FG X;11;26'02.9396;4.2630;0.7230;None
+7;17;Скотт Маклафлин;None;Ford Falcon FG X;11;26'03.4348;4.7582;0.4952;None
+8;23;Майкл Карузо;None;Nissan Altima;11;26'03.8254;5.1488;0.3906;None
+9;33;Гарт Тандер;None;Holden Commodore ZB;11;26'04.1668;5.4902;0.3414;None
+10;230;Уилл Дэвисон;None;Ford Falcon FG X;11;26'04.5259;5.8493;0.3591;None
+11;14;Тим Слейд;None;Holden Commodore ZB;11;26'04.9958;6.3192;0.4699;None
+12;888;Крэг Лаундес;None;Holden Commodore ZB;11;26'05.3411;6.6645;0.3453;None
+13;97;Шейн ван Гисберген;None;Holden Commodore ZB;11;26'05.6614;6.9848;0.3203;None
+14;7;Андре Хаймгартнер;None;Nissan Altima;11;26'06.1232;7.4466;0.4618;None
+15;99;Антон де Паскуале;None;Holden Commodore ZB;11;26'07.1623;8.4857;1.0391;None
+16;78;Симона де Сильвестро;None;Nissan Altima;11;26'08.3498;9.6732;1.1875;None
+17;5;Марк Винтерботтом;None;Ford Falcon FG X;11;26'08.4173;9.7407;0.0675;None
+18;56;Ричи Стэнэвей;None;Ford Falcon FG X;11;26'09.3244;10.6478;0.9071;None
+19;35;Тодд Хазелвуд;None;Ford Falcon FG X;11;26'10.1510;11.4744;0.8266;None
+20;21;Тим Бланкард;None;Holden Commodore ZB;11;26'10.1582;11.4816;0.0072;None
+21;19;Джек ЛеБрок;None;Holden Commodore ZB;11;26'10.8204;12.1438;0.6622;None
+22;6;Кэмерон Уотерс;None;Ford Falcon FG X;11;26'14.2596;15.5830;3.4392;None
+23;18;Ли Холдсуорт;None;Holden Commodore ZB;9;26'52.9926;2 Laps;2 Laps;None
+None;34;Джеймс Голдинг;None;Holden Commodore ZB;7;14'14.5924;4 Laps;2 Laps;None
+None;25;Джеймс Кортни;None;Holden Commodore ZB;1;2'12.4798;10 Laps;6 Laps;None
+None;15;Рик Келли;None;Nissan Altima;1;2'14.6416;10 Laps;2.1618;None
