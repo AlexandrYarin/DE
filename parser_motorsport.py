@@ -32,7 +32,7 @@ driver.get(config['HREF'])
 
 try:
     series_links = get_links_series(driver)
-    logging.info('Ссылки с сериями заугрузились')
+    logging.info('Ссылки с сериями загрузились')
 except Exception as e:
     logging.error(e, exc_info=True)
 
